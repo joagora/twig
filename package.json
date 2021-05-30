@@ -1,0 +1,17 @@
+{
+  "name": "twig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha specs",
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "mocha": "^8.4.0"
+  }
+}
